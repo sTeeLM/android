@@ -51,7 +51,7 @@
   <project path="device/htc/msm7x30-common" name="CyanogenMod/android_device_htc_msm7x30-common" remote="github" />
   <project path="device/htc/passion" name="CyanogenMod/android_device_htc_passion" remote="github" />
   <project path="device/htc/passion-common" name="CyanogenMod/android_device_htc_passion-common" remote="github" />
-  <project path="device/htc/saga" name="sTeeLM/android_device_htc_saga" remote="github" />
+  <project path="device/htc/saga" name="sTeeLM/android_device_htc_saga" remote="github" revision="master" />
   <project path="device/htc/speedy" name="CyanogenMod/android_device_htc_speedy" remote="github" />
   <project path="device/htc/supersonic" name="CyanogenMod/android_device_htc_supersonic" remote="github" />
   <project path="device/htc/vision" name="CyanogenMod/android_device_htc_vision" remote="github" />
@@ -262,7 +262,7 @@
   <project path="packages/experimental" name="platform/packages/experimental" />
   <project path="packages/inputmethods/LatinIME" name="CyanogenMod/android_packages_inputmethods_LatinIME" remote="github" />
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
-  <project path="packages/providers/CallLocateProvider" name="sTeeLM/android_packages_providers_CallLocateProvider" remote="github" />
+  <project path="packages/providers/CallLocateProvider" name="sTeeLM/android_packages_providers_CallLocateProvider" remote="github" revision="master"/>
   <project path="packages/providers/CalendarProvider" name="CyanogenMod/android_packages_providers_CalendarProvider" remote="github" />
   <project path="packages/providers/ContactsProvider" name="CyanogenMod/android_packages_providers_ContactsProvider" remote="github" />
   <project path="packages/providers/DownloadProvider" name="CyanogenMod/android_packages_providers_DownloadProvider" remote="github" />
